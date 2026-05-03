@@ -1,4 +1,4 @@
-# 🧠 Análise de Dados: Dashboard Interativo de Vendas de Games no Power BI
+# 🧠 Power BI: Dashboard Interativo de Vendas de Games
 
 Este projeto faz parte do Módulo Power BI do curso de Cientista de Dados da EBAC e tem como objetivo a construção de um dashboard interativo no Power BI para análise de vendas no mercado de games.
 
